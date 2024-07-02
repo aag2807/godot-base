@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dsmm210fb4kta"
+path.s3tc="res://.godot/imported/Box_C-49de3716c3fc56561e157eca5aca5b0e_prototypebits_texture.png-d0b8e99e9fa3aef39abcc4ad1ec5938f.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "92cda2648e3fa642c614ab53b4df778f"
+}
+
+[deps]
+
+source_file="res://kit/Assets/fbx(unity)/Box_C-49de3716c3fc56561e157eca5aca5b0e_prototypebits_texture.png"
+dest_files=["res://.godot/imported/Box_C-49de3716c3fc56561e157eca5aca5b0e_prototypebits_texture.png-d0b8e99e9fa3aef39abcc4ad1ec5938f.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

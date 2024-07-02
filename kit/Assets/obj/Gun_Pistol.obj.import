@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cli0s7j3cvfln"
+path="res://.godot/imported/Gun_Pistol.obj-81bb576fa810e18b7f71d04cc9923694.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Gun_Pistol.obj-81bb576fa810e18b7f71d04cc9923694.mesh"]
+
+source_file="res://kit/Assets/obj/Gun_Pistol.obj"
+dest_files=["res://.godot/imported/Gun_Pistol.obj-81bb576fa810e18b7f71d04cc9923694.mesh", "res://.godot/imported/Gun_Pistol.obj-81bb576fa810e18b7f71d04cc9923694.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

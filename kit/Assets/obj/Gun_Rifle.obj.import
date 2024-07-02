@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://kk1i2iuflyq2"
+path="res://.godot/imported/Gun_Rifle.obj-3d946aa5c0037b2166e2cb557f5ff629.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Gun_Rifle.obj-3d946aa5c0037b2166e2cb557f5ff629.mesh"]
+
+source_file="res://kit/Assets/obj/Gun_Rifle.obj"
+dest_files=["res://.godot/imported/Gun_Rifle.obj-3d946aa5c0037b2166e2cb557f5ff629.mesh", "res://.godot/imported/Gun_Rifle.obj-3d946aa5c0037b2166e2cb557f5ff629.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

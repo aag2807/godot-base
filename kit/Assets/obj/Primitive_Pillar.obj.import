@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://burdrw3sta3mh"
+path="res://.godot/imported/Primitive_Pillar.obj-036a9436405303c792aa059232ad872e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Primitive_Pillar.obj-036a9436405303c792aa059232ad872e.mesh"]
+
+source_file="res://kit/Assets/obj/Primitive_Pillar.obj"
+dest_files=["res://.godot/imported/Primitive_Pillar.obj-036a9436405303c792aa059232ad872e.mesh", "res://.godot/imported/Primitive_Pillar.obj-036a9436405303c792aa059232ad872e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

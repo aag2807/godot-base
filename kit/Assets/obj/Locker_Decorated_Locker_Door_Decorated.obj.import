@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vhmnj6st83a0"
+path="res://.godot/imported/Locker_Decorated_Locker_Door_Decorated.obj-93da74d5a64c073fc5d81d20670f131a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Locker_Decorated_Locker_Door_Decorated.obj-93da74d5a64c073fc5d81d20670f131a.mesh"]
+
+source_file="res://kit/Assets/obj/Locker_Decorated_Locker_Door_Decorated.obj"
+dest_files=["res://.godot/imported/Locker_Decorated_Locker_Door_Decorated.obj-93da74d5a64c073fc5d81d20670f131a.mesh", "res://.godot/imported/Locker_Decorated_Locker_Door_Decorated.obj-93da74d5a64c073fc5d81d20670f131a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
